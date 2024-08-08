@@ -19,7 +19,7 @@ func ThirdTimeIsACharm(str string) string {
 }
 	
 
-func main() {
+func maissddn() {
 	fmt.Print(ThirdTimeIsACharm("123456789"))
 	fmt.Print(ThirdTimeIsACharm(""))
 	fmt.Print(ThirdTimeIsACharm("a b c d e f"))
